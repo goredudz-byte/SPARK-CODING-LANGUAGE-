@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="assets/spark-logo.png" width="220">
+<img src="assets/spark.png" width="220">
 
 # Spark Programming Language
 
