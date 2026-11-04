@@ -3,9 +3,6 @@
 
 <img src="assets/spark.png" width="220">
 
-# Spark Programming Language
-
-**Build on it. Command on it.**
 
 </div>
 
