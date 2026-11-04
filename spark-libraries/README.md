@@ -1,10 +1,4 @@
-
-<div align="center">
-
-<img src="assets/spark.png" width="220">
-
-
-</div>
+![Spark Logo](assets/spark.png)
 
 A small collection of libraries and examples for **Spark 0.1**, plus the matching compiler source.
 
