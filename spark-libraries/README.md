@@ -1,4 +1,13 @@
-# Spark libraries (experimental)
+
+<div align="center">
+
+<img src="assets/spark-logo.png" width="220">
+
+# Spark Programming Language
+
+**Build on it. Command on it.**
+
+</div>
 
 A small collection of libraries and examples for **Spark 0.1**, plus the matching compiler source.
 
