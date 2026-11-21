@@ -74,6 +74,7 @@ Your first Sparks program
 Create "hello.sp":
 
 fn main()
+
     print "Hello from Sparks!"
 
 Compile:
