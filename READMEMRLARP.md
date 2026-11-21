@@ -1,4 +1,4 @@
-![Spark Logo](../assets/spark.png)
+![Spark Logo](../assets/spark.png) 
 
 Sparks Programming Language
 
